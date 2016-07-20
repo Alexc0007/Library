@@ -8,8 +8,7 @@
  */
 public class RBNode
 {
-	public final static int RED = 1;
-	public final static int BLACK = 0;
+	
 	
 	//instance variables
 	RBNode left , right , parent;
